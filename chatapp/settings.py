@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-zzmsj0!axq++qd9#2l!9%@6zvptcku(1i+virk9qsjanzicn*)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['hamidulla-chat-app.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
